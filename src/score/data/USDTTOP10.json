@@ -1,0 +1,121 @@
+{
+  "stable": "USDT",
+  "generatedAt": "2025-08-21T19:27:02.189Z",
+  "count": 10,
+  "items": [
+    {
+      "poolId": "339444e1-3734-47d0-808d-50844af52090",
+      "chain": "Ethereum",
+      "symbol": "USDT",
+      "apy": 2.2130959,
+      "apyBase": 0.0306334,
+      "apyReward": 2.1824626,
+      "tvlUsd": 32743,
+      "timestamp": 1755804421320,
+      "parser": "Defilama",
+      "platform": "strike"
+    },
+    {
+      "poolId": "693ea1ab-7c97-400a-a44b-f4289253d2d3",
+      "chain": "Ethereum",
+      "symbol": "KPDUSDT",
+      "apy": 0.35,
+      "apyReward": 0.35,
+      "tvlUsd": 6035626,
+      "timestamp": 1755804421320,
+      "parser": "Defilama",
+      "platform": "merkl"
+    },
+    {
+      "poolId": "f5e8dddd-e920-421a-8e41-b7becd697a66",
+      "chain": "Ethereum",
+      "symbol": "USDT",
+      "apy": 0.2694951,
+      "apyBase": 0.0903627,
+      "apyReward": 0.17913239999999997,
+      "tvlUsd": 10200,
+      "timestamp": 1755804421320,
+      "parser": "Defilama",
+      "platform": "conic-finance"
+    },
+    {
+      "poolId": "60573702-968e-4b8d-8c88-cc9fc973b6a6",
+      "chain": "Ethereum",
+      "symbol": "USDT",
+      "apy": 0.2464039,
+      "apyBase": 0.2464039,
+      "apyReward": 0,
+      "tvlUsd": 353724,
+      "timestamp": 1755804421320,
+      "parser": "Defilama",
+      "platform": "benddao-lending"
+    },
+    {
+      "poolId": "b869b6db-edd1-43e0-87e1-8dab647cf441",
+      "chain": "Polygon",
+      "symbol": "USDT",
+      "apy": 0.2163448,
+      "apyBase": 0.2163448,
+      "apyReward": 0,
+      "tvlUsd": 38880,
+      "timestamp": 1755804421320,
+      "parser": "Defilama",
+      "platform": "dforce"
+    },
+    {
+      "poolId": "27328edb-f278-470e-8a19-7cb441fb5c90",
+      "chain": "Ethereum",
+      "symbol": "LVUSDT",
+      "apy": 0.2148658,
+      "apyReward": 0.2148658,
+      "tvlUsd": 8061324,
+      "timestamp": 1755804421320,
+      "parser": "Defilama",
+      "platform": "merkl"
+    },
+    {
+      "poolId": "37360ac7-b50d-4f55-ba36-4d5312231d1a",
+      "chain": "Core",
+      "symbol": "USDT",
+      "apy": 0.1879696,
+      "apyBase": 0.1314197,
+      "apyReward": 0.0565499,
+      "tvlUsd": 1969391,
+      "timestamp": 1755804421320,
+      "parser": "Defilama",
+      "platform": "colend-protocol"
+    },
+    {
+      "poolId": "0660914e-b7a9-4774-b2ad-28e7c16716f8",
+      "chain": "Polygon",
+      "symbol": "USDT",
+      "apy": 0.1787777,
+      "tvlUsd": 539475,
+      "timestamp": 1755804421320,
+      "parser": "Defilama",
+      "platform": "beefy"
+    },
+    {
+      "poolId": "e8e1db13-dbb3-4484-a677-80ca66ca2568",
+      "chain": "Ethereum",
+      "symbol": "USDT",
+      "apy": 0.1723,
+      "apyBase": 0.1723,
+      "tvlUsd": 51899,
+      "timestamp": 1755804421320,
+      "parser": "Defilama",
+      "platform": "csigma-finance"
+    },
+    {
+      "poolId": "fcac5295-d56b-4707-9355-5e15c55c471d",
+      "chain": "Solana",
+      "symbol": "USDT",
+      "apy": 0.16494340000000002,
+      "apyBase": 0.16494340000000002,
+      "tvlUsd": 235736,
+      "timestamp": 1755804421320,
+      "parser": "Defilama",
+      "platform": "francium"
+    }
+  ]
+}

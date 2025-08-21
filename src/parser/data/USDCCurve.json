@@ -1,0 +1,1458 @@
+{
+  "curve": [
+    {
+      "poolId": "0x79a8C46DeA5aDa233ABaFFD40F3A0A2B1e5A4F27",
+      "chain": "Ethereum",
+      "symbol": "YDAI+YUSDC+YUSDT+YBUSD",
+      "tvlUsd": 34820.57684948351,
+      "url": "https://curve.fi/",
+      "timestamp": 1755804384539
+    },
+    {
+      "poolId": "0xA2B47E3D5c44877cca798226B7B8118F9BFb7A56",
+      "chain": "Ethereum",
+      "symbol": "CDAI+CUSDC",
+      "tvlUsd": 587804.0416755119,
+      "url": "https://curve.fi/",
+      "timestamp": 1755804384539
+    },
+    {
+      "poolId": "0x52EA46506B9CC5Ef470C5bf89f17Dc28bB35D85C",
+      "chain": "Ethereum",
+      "symbol": "CDAI+CUSDC+USDT",
+      "tvlUsd": 52808.537177975966,
+      "url": "https://curve.fi/",
+      "timestamp": 1755804384539
+    },
+    {
+      "poolId": "0x45F783CCE6B7FF23B2ab2D70e416cdb7D6055f51",
+      "chain": "Ethereum",
+      "symbol": "YDAI+YUSDC+YUSDT+YTUSD",
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755804384539
+    },
+    {
+      "poolId": "0x6A274dE3e2462c7614702474D64d376729831dCa",
+      "chain": "Ethereum",
+      "symbol": "AUSDC+ADAI-F",
+      "tvlUsd": 235.56951343671608,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x5b78b93Fa851c357586915c7bA7258b762eB1ba0",
+      "chain": "Ethereum",
+      "symbol": "PARUSDC3CRV-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xFd46B54FcFF753bA058A5E9BbB45dCedc9A71FAb",
+      "chain": "Ethereum",
+      "symbol": "FREEUSDC3CRV-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xf275CADbE0343541ce49A03E385f8B234544CDa8",
+      "chain": "Ethereum",
+      "symbol": "EUROCUSDC3CRV-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x9978c6B08d28d3B74437c917c5dD7C026df9d55C",
+      "chain": "Ethereum",
+      "symbol": "LUSDCRVUSD-F",
+      "tvlUsd": 2272.487448171884,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x98a7F18d4E56Cfe84E3D081B40001B3d5bD3eB8B",
+      "chain": "Ethereum",
+      "symbol": "CRVEURSUSDC",
+      "tvlUsd": 4367172.261982421,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xE07BDe9Eb53DEFfa979daE36882014B758111a78",
+      "chain": "Ethereum",
+      "symbol": "CADCUSDC-F",
+      "tvlUsd": 9.683321375380283,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xDaD60C5B748306BA5a0c9a3c3482A8D1153DAd2a",
+      "chain": "Ethereum",
+      "symbol": "PARUSDC-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 2291.524000309001,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x80aa1a80a30055DAA084E599836532F3e58c95E2",
+      "chain": "Ethereum",
+      "symbol": "FIDU-USDC-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 303188.88588996546,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x1570af3dF649Fc74872c5B8F280A162a3bdD4EB6",
+      "chain": "Ethereum",
+      "symbol": "IBEURUSDC-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 4333.623849795529,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x5b692073F141C31384faE55856CfB6CBfFE91E60",
+      "chain": "Ethereum",
+      "symbol": "IBAUDUSDC-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 2565.3794214947793,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x6Df0D77F0496CE44e72D695943950D8641fcA5Cf",
+      "chain": "Ethereum",
+      "symbol": "IBCHFUSDC-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 495.1012589169946,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xAcCe4Fe9Ce2A6FE9af83e7CF321a3fF7675e0AB6",
+      "chain": "Ethereum",
+      "symbol": "IBGBPUSDC-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 691.8139741197288,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xEB0265938c1190Ab4E3E1f6583bC956dF47C0F93",
+      "chain": "Ethereum",
+      "symbol": "IBJPYUSDC-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 2038.8679724525732,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xef04f337fCB2ea220B6e8dB5eDbE2D774837581c",
+      "chain": "Ethereum",
+      "symbol": "IBKRWUSDC-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 1016.5085883988531,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x39567Db64F0b25Db2C35Fc7A4f60c3C5258e4654",
+      "chain": "Ethereum",
+      "symbol": "USDCSTG-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x751D3feFFed0890B76E9b86476CFEEAA1FcdA73D",
+      "chain": "Ethereum",
+      "symbol": "USDCSTG-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x3211C6cBeF1429da3D0d58494938299C92Ad5860",
+      "chain": "Ethereum",
+      "symbol": "STGUSDC-F",
+      "tvlUsd": 5699878.138255738,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x62d1d9065b4C78964040b640ab404D86D8f68263",
+      "chain": "Ethereum",
+      "symbol": "VNXAUSDC-F",
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x4535913573D299A6372ca43b90aA6Be1CF68f779",
+      "chain": "Ethereum",
+      "symbol": "CXDUSDC-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 31253.836843658704,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xbfCa1a72edd92FFf61a8c88f61D4e64E99232b4b",
+      "chain": "Ethereum",
+      "symbol": "ARTH+USDC-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0.000001,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x7F2aF2c7BFDAD063fF01DcEc077a216d95A0A944",
+      "chain": "Ethereum",
+      "symbol": "ARTH+USDC-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0.000001,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xc12A73c46D49Fa0d7433C90291BC8D1A9EAe7B23",
+      "chain": "Ethereum",
+      "symbol": "MXNTUSDC-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0.000001,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x840cBF6861137624E60380d5e915619885c5AA95",
+      "chain": "Ethereum",
+      "symbol": "FLOATUSDC-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x611a95bf3cc0EF593f22c4E4D8EB4d6C937E006C",
+      "chain": "Ethereum",
+      "symbol": "GYENUSDC-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 17.295320151052778,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x4D19E7fD118FD751fEa7c0324D7E7b0A3D05EbA4",
+      "chain": "Ethereum",
+      "symbol": "ZARPUSDC-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 1.381046434035881,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x96A3F551c99797998dC33E2D816D567db61EE1c2",
+      "chain": "Ethereum",
+      "symbol": "RAIUSDC-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 3.2405478953060025,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xB4018CB02E264C3FCfe0f21A1F5cfbCAAba9F61F",
+      "chain": "Ethereum",
+      "symbol": "ARTHUSDC-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 680.0182828987852,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x9a81f5a6Ea7e60632f659F3f4e772Ba977d80Bd5",
+      "chain": "Ethereum",
+      "symbol": "VEEUSDC-F",
+      "tvlUsd": 258331.9559175187,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xf514a54693Db2f3b4C43f78088d361b3F3A317A9",
+      "chain": "Ethereum",
+      "symbol": "GBPTUSDC-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 9.381655223967137,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x3D2253FA44C38d9870539dc2856286AA1638467f",
+      "chain": "Ethereum",
+      "symbol": "USDC EURO-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x9db63040dbdEe832D0824220fc47361674058eF1",
+      "chain": "Ethereum",
+      "symbol": "STGUSDC-F",
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x5105a9E847965421a8C81cA33Ea682948694A6F4",
+      "chain": "Ethereum",
+      "symbol": "FUSDC-FDAI-F",
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x1cDF9650cd7c47dCfe63159924440E7A439B91f4",
+      "chain": "Ethereum",
+      "symbol": "EUSDUSDC-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0.000001,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x880F2fB3704f1875361DE6ee59629c6c6497a5E3",
+      "chain": "Ethereum",
+      "symbol": "EUSDUSDC-F",
+      "tvlUsd": 22731.56434787602,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x04e7a76A910A499B8BBCAc18411aE68454AE348b",
+      "chain": "Ethereum",
+      "symbol": "CHNTUSDC-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 102.55611199999998,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xe7a59B3b44AcacFD8A5Ba9259d6913f097946409",
+      "chain": "Ethereum",
+      "symbol": "CRUSDCFRAX-F",
+      "tvlUsd": 247.9528449032071,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xD9DBF8469bcfA53CBc71874b59f62DBCdBe8656D",
+      "chain": "Ethereum",
+      "symbol": "ALTDUSDC-F",
+      "tvlUsd": 0.6,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xF2B25362a03f6EACCa8De8d5350A9f37944c1e59",
+      "chain": "Ethereum",
+      "symbol": "USDC+LP-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 9045.256241530955,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x881601Cc3D9745baA32a836bee329F4430eEaBF3",
+      "chain": "Ethereum",
+      "symbol": "USDC-BTC-F",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x91c8C77829c909BF2178dfa173C96165D3A8C11A",
+      "chain": "Ethereum",
+      "symbol": "LATIUSDC-F",
+      "tvlUsd": 0.000001,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x9Be7685aF8A6184F5889F12892f16452Fe73f8fd",
+      "chain": "Ethereum",
+      "symbol": "USDE-USDC-F",
+      "tvlUsd": 0.000001,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x154B0eCD38078819084E449eA1a657728fd37e43",
+      "chain": "Ethereum",
+      "symbol": "MGUSDC-F",
+      "tvlUsd": 32.88910999094904,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x4DEcE678ceceb27446b35C672dC7d61F30bAD69E",
+      "chain": "Ethereum",
+      "symbol": "CRVUSDUSDC-F",
+      "tvlUsd": 31818962.96980971,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x0fF26A978A61d40F6591fc700EF878E96aF6C2C0",
+      "chain": "Ethereum",
+      "symbol": "CRVUSDCJPY",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xca546aE6c3B2BB9Fba2b6e5EeB0881097CecE5B0",
+      "chain": "Ethereum",
+      "symbol": "CRVUSDCJPY",
+      "tvlUsd": 473816.5690954018,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x011E998D2d794424DE95935d55a6Ca81822Ecb2b",
+      "chain": "Ethereum",
+      "symbol": "BLOOM/USDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xB3341ca63b6ceCF1e1a0d1A99bf0587f4c305652",
+      "chain": "Ethereum",
+      "symbol": "BLOOM/USDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 14.570714936239774,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x99Ca0FbAA278CD62E26F0E9B6D167b07D1F0D51B",
+      "chain": "Ethereum",
+      "symbol": "BLOOM/USDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x17DFd8a29b53D006b796480AaC1691C1FE0F0b40",
+      "chain": "Ethereum",
+      "symbol": "RLPUSDC",
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xECEBad30194bA89a9F894284ac655D429AC7d848",
+      "chain": "Ethereum",
+      "symbol": "RLPUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x8E001d4BAC0EaE1eea348dFC22f9B8bDA67dd211",
+      "chain": "Ethereum",
+      "symbol": "RLPUSDC",
+      "tvlUsd": 92563.13869393102,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xB2EB4ED12b78574343d5F38B99A28C243DB5E349",
+      "chain": "Ethereum",
+      "symbol": "SPOTUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x256fbdA404B96A283b1Ae851b465D4B9601C25a6",
+      "chain": "Ethereum",
+      "symbol": "SPOTUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 319.33940329451536,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x21c707EcB5bA16aD7E04Fa53DF81480bD4fc5D95",
+      "chain": "Ethereum",
+      "symbol": "ETHUSDCVEN",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x94996aC820D9090Ea205f1cccD0bad9A959C3e0A",
+      "chain": "Ethereum",
+      "symbol": "USDC-CBBTC",
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xF2ce93d54e0b043fbe654eA73aAde9DFB092d2cc",
+      "chain": "Ethereum",
+      "symbol": "WETHUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x4Cf6b8AFcFc9FD19E8969F23d91B0326609bB869",
+      "chain": "Ethereum",
+      "symbol": "VYUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x9c7809c813BcC67e288c56d5Ce5e0225996bFcD2",
+      "chain": "Ethereum",
+      "symbol": "USDCSUSDE",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x6c5c791B20faB13303E3624E074D80c92f06a58e",
+      "chain": "Ethereum",
+      "symbol": "CMPTUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x05001F08E5Ab5A4c6B6996BdfB5C7F5Ed3fb3809",
+      "chain": "Ethereum",
+      "symbol": "WOLFUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 4528.702664206943,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x4F656f5014eC1D6aa62f0a76a56e36c90C1d83eC",
+      "chain": "Ethereum",
+      "symbol": "FINUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xd5D6dEE42B9F554fA00Dee42965a835400FB5970",
+      "chain": "Ethereum",
+      "symbol": "RFINUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x12E1e335F68e520EA9aa2BA708861D7E01C1B8Dc",
+      "chain": "Ethereum",
+      "symbol": "USDC/GS",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 315.75856785114695,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x340792B1D0D73208AC6F324fFA0223B24795cB1C",
+      "chain": "Ethereum",
+      "symbol": "NPR-PT/USUALUSDC+@17/3/2025",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 109.34652384528013,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x152fe86Fb91631231AF0403c0c378e51a74AE08a",
+      "chain": "Ethereum",
+      "symbol": "NPR-PT/USUALUSDC+@16/10/2025",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 19.40083580599232,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xaeA5e50b41EdD6E86eBc631caB64ac32Bc9D87D7",
+      "chain": "Ethereum",
+      "symbol": "NPR-PT/USUALUSDC+@15/10/2025",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0.010289230419526528,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x7Cb27098C046d70c6783D07759813E5591E7789a",
+      "chain": "Ethereum",
+      "symbol": "NPR-PT/YSUSDC@20/4/2025",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0.0000020811127384761576,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x4AB27FFf1F9Afc97Ad73188Cc0baeB1881dA282f",
+      "chain": "Ethereum",
+      "symbol": "NPR-PT/FUSDC@10/10/2025",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xc0A64ED2540672a3Db91AFC0A679AE900b4eCA06",
+      "chain": "Ethereum",
+      "symbol": "$AUD/USDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xd250ADB493BC888D56070A067eABf285b99301CA",
+      "chain": "Ethereum",
+      "symbol": "NPR-PT/SYRUPUSDC@19/10/2025",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 98.34951116329728,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xbaE895c43c3Af0f76E8bED2aF8D1063afCE35F5D",
+      "chain": "Ethereum",
+      "symbol": "CNHTUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x39b2535b2D86c453E3Dd8D81519458624BB38289",
+      "chain": "Ethereum",
+      "symbol": "SSUPERUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 110399.2017659333,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x3b44afA14859b785f0c909C31c3aEF1b6e7A818D",
+      "chain": "Ethereum",
+      "symbol": "MAPUUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x56E53dF35E3AfBCaeAcB3183a235B0393B511e11",
+      "chain": "Ethereum",
+      "symbol": "KIPUSDC",
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xeB5De3dA3F9605652cD4ea9496d1d8480957C7da",
+      "chain": "Ethereum",
+      "symbol": "USDCMAPU",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xf1244C75A270c9d2d2480f45298b3f32C5107353",
+      "chain": "Ethereum",
+      "symbol": "USDIUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x9570e20fF75058cCf212Deb20a352c4F971De11a",
+      "chain": "Ethereum",
+      "symbol": "AIVNIRUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 2458.4198473002257,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x7F86Bf177Dd4F3494b841a37e810A34dD56c829B",
+      "chain": "Ethereum",
+      "symbol": "CRVUSDCWBTCWETH",
+      "tvlUsd": 21010483.47416342,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x5426178799ee0a0181A89b4f57eFddfAb49941Ec",
+      "chain": "Ethereum",
+      "symbol": "CRVUSDCWETHINV",
+      "tvlUsd": 51334.16338797074,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xC1EA9d1346D70e9Eb16B392afbEdC0e0E06C3Fd3",
+      "chain": "Ethereum",
+      "symbol": "USDCQUINAI",
+      "tvlUsd": 5.048868536000411,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x9819179AC0C3bB6af31748719114568262d9807b",
+      "chain": "Ethereum",
+      "symbol": "USDCETHBTC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xB120cC38e8485C284f6b80692eD461D5D7f6729f",
+      "chain": "Ethereum",
+      "symbol": "USDCETHBTC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x7b4d97e4C812707f6913AED3c957D6ec63453dc9",
+      "chain": "Ethereum",
+      "symbol": "USDCETHBTC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x02950460E2b9529D0E00284A5fA2d7bDF3fA4d72",
+      "chain": "Ethereum",
+      "symbol": "USDEUSDC",
+      "tvlUsd": 6697028.02533477,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xF980B4A4194694913Af231De69AB4593f5E0fCDc",
+      "chain": "Ethereum",
+      "symbol": "MKUSDUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 321.8824815538384,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xf8D390F23b06D420daa629d3B6A9A24BD27c1eF3",
+      "chain": "Ethereum",
+      "symbol": "PYUSDUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 14022.933964680069,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xcc16de6FB2FcecaE956413A92531F9e6f7bEF12A",
+      "chain": "Ethereum",
+      "symbol": "PYUSDUSDC",
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x383E6b4437b59fff47B619CBA855CA29342A8559",
+      "chain": "Ethereum",
+      "symbol": "PYUSDUSDC",
+      "tvlUsd": 15075783.733261772,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x91285c4fC766ffF6F3acAfeEC7a0423275257faE",
+      "chain": "Ethereum",
+      "symbol": "EUSDCRVUSD",
+      "tvlUsd": 0.2000445361164031,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x128A8d3081C64A7673234D236b78bB7Dbc056a2b",
+      "chain": "Ethereum",
+      "symbol": "SWEEP/USDC",
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xBeCDF453a9d69aa67d27fd391E81FD96A8b9Ade5",
+      "chain": "Ethereum",
+      "symbol": "SENUSDUSDC",
+      "tvlUsd": 296.3205198796982,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x8fFC7b89412eFD0D17EDEa2018F6634eA4C2FCb2",
+      "chain": "Ethereum",
+      "symbol": "FXUSDCRVUS",
+      "tvlUsd": 193.2941152065008,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xC03FEF1c425956A3Cd5762022E511e0d4148B3D6",
+      "chain": "Ethereum",
+      "symbol": "ULTRAUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 20187.14135525084,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x60f7a9DA4780a170f0b46e76E758122E5BB14488",
+      "chain": "Ethereum",
+      "symbol": "USDLRUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x9E641187391B7a5fE9ee193359408CA3894f68a2",
+      "chain": "Ethereum",
+      "symbol": "THUSDCRVUS",
+      "tvlUsd": 79856.45086198885,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xeaF1D32B2CdfD55E6CBaa69dA8CAd1c588122378",
+      "chain": "Ethereum",
+      "symbol": "BLOOM/USDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xe1fbaEc91b8A211db901AdF5ACc5b31f9A988279",
+      "chain": "Ethereum",
+      "symbol": "RUSDY-USDC",
+      "tvlUsd": 7442635.094581164,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x08BfA22bB3e024CDfEB3eca53c0cb93bF59c4147",
+      "chain": "Ethereum",
+      "symbol": "EUSDUSDC",
+      "tvlUsd": 11506861.266591765,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x3eE841F47947FEFbE510366E4bbb49e145484195",
+      "chain": "Ethereum",
+      "symbol": "USRUSDC",
+      "tvlUsd": 1049545.072149493,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x8F476f43bAA2D4b6C215d2408340919bF7DE0520",
+      "chain": "Ethereum",
+      "symbol": "AUSDT-USDT",
+      "tvlUsd": 11781.101312602936,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x7FE188ACa91077353c9Edb0E9e4f34B60210711f",
+      "chain": "Ethereum",
+      "symbol": "USD0-USDC",
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x14100f81e33C33Ecc7CDac70181Fb45B6E78569F",
+      "chain": "Ethereum",
+      "symbol": "USD0-USDC",
+      "tvlUsd": 12144764.569768699,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x5018BE882DccE5E3F2f3B0913AE2096B9b3fB61f",
+      "chain": "Ethereum",
+      "symbol": "USDCFXUSD",
+      "tvlUsd": 27554156.30502568,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x5F6c431AC417f0f430B84A666a563FAbe681Da94",
+      "chain": "Ethereum",
+      "symbol": "DEUSDUSDC",
+      "tvlUsd": 7743381.780942155,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xf2c8f52d07EE33D7a7DB78CeE084a33B40AB4654",
+      "chain": "Ethereum",
+      "symbol": "USDZUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 37.987403,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xE79C1C7E24755574438A26D5e062Ad2626C04662",
+      "chain": "Ethereum",
+      "symbol": "AUSDUSDC",
+      "tvlUsd": 300.132422055888,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xE7b825c41D6848e3812a720EB6a0Cf95fd54dD39",
+      "chain": "Ethereum",
+      "symbol": "AUSDUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x6eE1955afB64146B126162b4fF018db1eb8f08C3",
+      "chain": "Ethereum",
+      "symbol": "USDZUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 61.01568975589332,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xFa883807fdf5D3F5c408F1f6D78707753Af1FFE7",
+      "chain": "Ethereum",
+      "symbol": "AUSDUSDC",
+      "tvlUsd": 15.004116994324999,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xAb96AA0ee764924f49fbB372f3B4db9c2cB24Ea2",
+      "chain": "Ethereum",
+      "symbol": "USDLUSDC",
+      "tvlUsd": 9890074.815444052,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xE33DB3B492b1E6DF86377Ca172c7e198D34aC122",
+      "chain": "Ethereum",
+      "symbol": "PUSDUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 3.99954,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x2Eb9f342bf5b6D4E4E660a84591da47190c4682f",
+      "chain": "Ethereum",
+      "symbol": "PUSDCRVUSD",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 1.9995332645449124,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x4164D2E7AE6d8Bc0a633412C189088181dF969b7",
+      "chain": "Ethereum",
+      "symbol": "SUSDUSDC",
+      "tvlUsd": 18.22203983931018,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x7EbDC5aBE981828882128cA8cA49628ac58B53Ae",
+      "chain": "Ethereum",
+      "symbol": "VUSDUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x7f28A78Bc3f840ae01DF48a4E49E3B0C6905e8Dc",
+      "chain": "Ethereum",
+      "symbol": "LVLUSDUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x5CcD2C289c15DCE661c0A94F6E82fDC8895bbB31",
+      "chain": "Ethereum",
+      "symbol": "LVLUSDUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x1220868672D5B10F3E1cB9Ab519E4d0B08545ea4",
+      "chain": "Ethereum",
+      "symbol": "LVLUSDUSDC",
+      "tvlUsd": 7800597.096584966,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xC4D375Edda8d3211a52399Bb6583D600015696A3",
+      "chain": "Ethereum",
+      "symbol": "USDCRTBL01",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x68F6f5c748eB7628a02bDB0e4d9a70F836D7DEEf",
+      "chain": "Ethereum",
+      "symbol": "USDC/DMUSD",
+      "tvlUsd": 3.965008101211464,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x1507bf3F8712c496fA4679a4bA827F633979dBa4",
+      "chain": "Ethereum",
+      "symbol": "DYADUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 40288.30046770557,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x4A0c954d0F19269f4Fc5c217821C6150A8870Ad4",
+      "chain": "Ethereum",
+      "symbol": "ZAIUSDC",
+      "tvlUsd": 17.93262065061824,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xC2921134073151490193AC7369313c8e0b08e1E7",
+      "chain": "Ethereum",
+      "symbol": "USDTB-USDC",
+      "tvlUsd": 19992950.4235201,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xE209bF74A100Db3C06702fC0fe12e9aC6aE27bFF",
+      "chain": "Ethereum",
+      "symbol": "USDCUSDAF",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xD001aE433f254283FeCE51d4ACcE8c53263aa186",
+      "chain": "Ethereum",
+      "symbol": "RLUSD/USDC",
+      "tvlUsd": 51831742.94597276,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x169A5f124A3663a25313Ee0F7f3Bff028728867f",
+      "chain": "Ethereum",
+      "symbol": "YUSD USDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 1.0515322856393157,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x90455bd11Ce8a67C57d467e634Dc142b8e4105Aa",
+      "chain": "Ethereum",
+      "symbol": "CUSDOUSDC",
+      "tvlUsd": 45164803.39406898,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xde6Bc4451f6e98351a1573932B7B37E13B6E5139",
+      "chain": "Ethereum",
+      "symbol": "USDBUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 10051.979146,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xaDb6851875B7496E3D565B754d8a79508480a203",
+      "chain": "Ethereum",
+      "symbol": "BOLDUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 291516.49775211397,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xE97b3271F812ff43522312705dbe58C8C6077B5f",
+      "chain": "Ethereum",
+      "symbol": "USDA-USDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 23.993884965830635,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x08C2e0d5e7cc34a9627B5BB650CF6A3f0bE3c899",
+      "chain": "Ethereum",
+      "symbol": "AUSDC/DM",
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xD4482a37Ef5659AE51CCe5F87A426B33e04889E8",
+      "chain": "Ethereum",
+      "symbol": "ZUSDC/DM",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x72310DAAed61321b02B08A547150c07522c6a976",
+      "chain": "Ethereum",
+      "symbol": "USDC/USDF",
+      "tvlUsd": 33552019.072002586,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xC57Ce1aC61081C51596E55DE38D35B19720D421e",
+      "chain": "Ethereum",
+      "symbol": "USDOUSDC",
+      "tvlUsd": 29338.240973947253,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x5b05497fE6C1bD226845c89e42b2bd9f50510996",
+      "chain": "Ethereum",
+      "symbol": "OUSD/USDC",
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x6d18E1a7faeB1F0467A77C0d293872ab685426dc",
+      "chain": "Ethereum",
+      "symbol": "OUSD/USDC",
+      "tvlUsd": 6262629.968728064,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x9804C30875127246AC92D72D5CDF0630aA356861",
+      "chain": "Ethereum",
+      "symbol": "YUSDUSDC",
+      "tvlUsd": 1427857.0457102805,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x144eC6f904A039544606E52AB69c97dc6b13fF9f",
+      "chain": "Ethereum",
+      "symbol": "USDXUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xa9d2f92B7dedF7Da162BfADc321407E28815Fd4A",
+      "chain": "Ethereum",
+      "symbol": "USDXUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 200106.27267333603,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x81301848168bAe6Add206aA50052E247Cb366d3A",
+      "chain": "Ethereum",
+      "symbol": "YUSD USDC",
+      "tvlUsd": 3.5853006378392456,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xc0FCCa52F806798C63dD313AA38fD9c4B2F087fe",
+      "chain": "Ethereum",
+      "symbol": "BOLDUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x6A0c68Bc96658A2B97201d94986Bf7753000f2cF",
+      "chain": "Ethereum",
+      "symbol": "JUSD USDC",
+      "tvlUsd": 925858.8544645284,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x3D16dA1112FFd1C4C2B867143B15a13eE95c5a4D",
+      "chain": "Ethereum",
+      "symbol": "STUSDVUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 57462.83783279316,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xEFc6516323FbD28e80B85A497B65A86243a54B3E",
+      "chain": "Ethereum",
+      "symbol": "BOLDUSDC",
+      "tvlUsd": 11682432.726480687,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x2E2d6C119bdF226C420cB40E3B9fC9689cF5986e",
+      "chain": "Ethereum",
+      "symbol": "IUSDUSDC",
+      "tvlUsd": 260222.81974500202,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xf74c91b36C26543A0Aa820bEf407A577e5498BF0",
+      "chain": "Ethereum",
+      "symbol": "REUSD-USDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 423261.21274277824,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xD25f2cC6819FBD34641712122397eFbaf9b6A6e2",
+      "chain": "Ethereum",
+      "symbol": "EBUSDUSDC",
+      "tvlUsd": 385719.60528070864,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xF88dE5987a4a114Fab1Fe98E681f83216F4b6E76",
+      "chain": "Ethereum",
+      "symbol": "THUSDUSDC",
+      "tvlUsd": 396837.6033500702,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x771c91e699B4B23420de3F81dE2aA38C4041632b",
+      "chain": "Ethereum",
+      "symbol": "USDUUSDC",
+      "tvlUsd": 43.987826,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xa074a80e6dD298dCfa7B0eEe505C143b44C3BBa8",
+      "chain": "Ethereum",
+      "symbol": "USBD/USDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xbD61dF10027C29a45AdDD3DD16EaD4643e78743F",
+      "chain": "Ethereum",
+      "symbol": "YUSDSYUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 9200698.602581048,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x199b7E222160e63B537eC0AEB3B026FE9F1ce3bd",
+      "chain": "Ethereum",
+      "symbol": "USDIUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0.000002,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0xE2996284C72f59a52Be59d9fC763FEB38ebda42B",
+      "chain": "Ethereum",
+      "symbol": "USSTUSDC",
+      "tvlUsd": 2800.671259017274,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x2362aE1e77823eC1fd017d2B7CA6C26B557e30E7",
+      "chain": "Ethereum",
+      "symbol": "ALUSDUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 0,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    },
+    {
+      "poolId": "0x463626cF9028d96eAd5084954FF634f813D5fFB9",
+      "chain": "Ethereum",
+      "symbol": "ALUSDUSDC",
+      "apy": 0,
+      "apyBase": 0,
+      "tvlUsd": 38847.0399388542,
+      "url": "https://curve.fi/",
+      "timestamp": 1755800929509
+    }
+  ]
+}
